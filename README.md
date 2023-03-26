@@ -11,8 +11,7 @@ N/A
 
 ## Usage
 
-you can review the note in each section of the prework study guide. Open Chrome DevTools, it will suggest a top for you to study first. please refer to the Screenshot.
-![Screenshot](feature/project-README/assets/images/screenshot.png)
+you can review the note in each section of the prework study guide. Open Chrome DevTools, it will suggest a top for you to study first. 
 
 ## Credits
 
